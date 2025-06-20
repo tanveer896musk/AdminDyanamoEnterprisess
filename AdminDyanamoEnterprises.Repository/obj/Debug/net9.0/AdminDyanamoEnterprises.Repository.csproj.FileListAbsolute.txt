@@ -1,0 +1,31 @@
+D:\My Project\Babu\Project\AdminDyanamoEnterprises\AdminDyanamoEnterprises.Repository\bin\Debug\net9.0\AdminDyanamoEnterprises.Repository.deps.json
+D:\My Project\Babu\Project\AdminDyanamoEnterprises\AdminDyanamoEnterprises.Repository\bin\Debug\net9.0\AdminDyanamoEnterprises.Repository.dll
+D:\My Project\Babu\Project\AdminDyanamoEnterprises\AdminDyanamoEnterprises.Repository\bin\Debug\net9.0\AdminDyanamoEnterprises.Repository.pdb
+D:\My Project\Babu\Project\AdminDyanamoEnterprises\AdminDyanamoEnterprises.Repository\obj\Debug\net9.0\AdminDyanamoEnterprises.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Project\Babu\Project\AdminDyanamoEnterprises\AdminDyanamoEnterprises.Repository\obj\Debug\net9.0\AdminDyanamoEnterprises.Repository.AssemblyInfoInputs.cache
+D:\My Project\Babu\Project\AdminDyanamoEnterprises\AdminDyanamoEnterprises.Repository\obj\Debug\net9.0\AdminDyanamoEnterprises.Repository.AssemblyInfo.cs
+D:\My Project\Babu\Project\AdminDyanamoEnterprises\AdminDyanamoEnterprises.Repository\obj\Debug\net9.0\AdminDyanamoEnterprises.Repository.csproj.CoreCompileInputs.cache
+D:\My Project\Babu\Project\AdminDyanamoEnterprises\AdminDyanamoEnterprises.Repository\obj\Debug\net9.0\AdminDyanamoEnterprises.Repository.dll
+D:\My Project\Babu\Project\AdminDyanamoEnterprises\AdminDyanamoEnterprises.Repository\obj\Debug\net9.0\refint\AdminDyanamoEnterprises.Repository.dll
+D:\My Project\Babu\Project\AdminDyanamoEnterprises\AdminDyanamoEnterprises.Repository\obj\Debug\net9.0\AdminDyanamoEnterprises.Repository.pdb
+D:\My Project\Babu\Project\AdminDyanamoEnterprises\AdminDyanamoEnterprises.Repository\obj\Debug\net9.0\ref\AdminDyanamoEnterprises.Repository.dll
+D:\My Project\Babu\Project\AdminDyanamoEnterprises\AdminDyanamoEnterprises.Repository\bin\Debug\net9.0\AdminDyanamoEnterprises.DTOs.dll
+D:\My Project\Babu\Project\AdminDyanamoEnterprises\AdminDyanamoEnterprises.Repository\bin\Debug\net9.0\AdminDyanamoEnterprises.DTOs.pdb
+D:\My Project\Babu\Project\AdminDyanamoEnterprises\AdminDyanamoEnterprises.Repository\obj\Debug\net9.0\AdminDyanamoEnterprises.Repository.csproj.AssemblyReference.cache
+D:\My Project\Babu\Project\AdminDyanamoEnterprises\AdminDyanamoEnterprises.Repository\obj\Debug\net9.0\AdminDya.8FD71756.Up2Date
+C:\Users\Admin\Downloads\AdminDyanamoEnterprises\AdminDyanamoEnterprises\AdminDyanamoEnterprises.Repository\bin\Debug\net9.0\AdminDyanamoEnterprises.Repository.deps.json
+C:\Users\Admin\Downloads\AdminDyanamoEnterprises\AdminDyanamoEnterprises\AdminDyanamoEnterprises.Repository\bin\Debug\net9.0\AdminDyanamoEnterprises.Repository.dll
+C:\Users\Admin\Downloads\AdminDyanamoEnterprises\AdminDyanamoEnterprises\AdminDyanamoEnterprises.Repository\bin\Debug\net9.0\AdminDyanamoEnterprises.Repository.pdb
+C:\Users\Admin\Downloads\AdminDyanamoEnterprises\AdminDyanamoEnterprises\AdminDyanamoEnterprises.Repository\bin\Debug\net9.0\AdminDyanamoEnterprises.DTOs.dll
+C:\Users\Admin\Downloads\AdminDyanamoEnterprises\AdminDyanamoEnterprises\AdminDyanamoEnterprises.Repository\bin\Debug\net9.0\AdminDyanamoEnterprises.DTOs.pdb
+C:\Users\Admin\Downloads\AdminDyanamoEnterprises\AdminDyanamoEnterprises\AdminDyanamoEnterprises.Repository\obj\Debug\net9.0\AdminDyanamoEnterprises.Repository.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\AdminDyanamoEnterprises\AdminDyanamoEnterprises\AdminDyanamoEnterprises.Repository\obj\Debug\net9.0\AdminDyanamoEnterprises.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\AdminDyanamoEnterprises\AdminDyanamoEnterprises\AdminDyanamoEnterprises.Repository\obj\Debug\net9.0\AdminDyanamoEnterprises.Repository.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\AdminDyanamoEnterprises\AdminDyanamoEnterprises\AdminDyanamoEnterprises.Repository\obj\Debug\net9.0\AdminDyanamoEnterprises.Repository.AssemblyInfo.cs
+C:\Users\Admin\Downloads\AdminDyanamoEnterprises\AdminDyanamoEnterprises\AdminDyanamoEnterprises.Repository\obj\Debug\net9.0\AdminDyanamoEnterprises.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\AdminDyanamoEnterprises\AdminDyanamoEnterprises\AdminDyanamoEnterprises.Repository\obj\Debug\net9.0\AdminDyanamoEnterprises.Repository.sourcelink.json
+C:\Users\Admin\Downloads\AdminDyanamoEnterprises\AdminDyanamoEnterprises\AdminDyanamoEnterprises.Repository\obj\Debug\net9.0\AdminDya.8FD71756.Up2Date
+C:\Users\Admin\Downloads\AdminDyanamoEnterprises\AdminDyanamoEnterprises\AdminDyanamoEnterprises.Repository\obj\Debug\net9.0\AdminDyanamoEnterprises.Repository.dll
+C:\Users\Admin\Downloads\AdminDyanamoEnterprises\AdminDyanamoEnterprises\AdminDyanamoEnterprises.Repository\obj\Debug\net9.0\refint\AdminDyanamoEnterprises.Repository.dll
+C:\Users\Admin\Downloads\AdminDyanamoEnterprises\AdminDyanamoEnterprises\AdminDyanamoEnterprises.Repository\obj\Debug\net9.0\AdminDyanamoEnterprises.Repository.pdb
+C:\Users\Admin\Downloads\AdminDyanamoEnterprises\AdminDyanamoEnterprises\AdminDyanamoEnterprises.Repository\obj\Debug\net9.0\ref\AdminDyanamoEnterprises.Repository.dll

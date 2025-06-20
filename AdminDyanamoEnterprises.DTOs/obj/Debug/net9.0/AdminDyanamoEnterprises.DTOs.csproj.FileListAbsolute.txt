@@ -1,0 +1,23 @@
+D:\My Project\Babu\Project\AdminDyanamoEnterprises\AdminDyanamoEnterprises.DTOs\bin\Debug\net9.0\AdminDyanamoEnterprises.DTOs.deps.json
+D:\My Project\Babu\Project\AdminDyanamoEnterprises\AdminDyanamoEnterprises.DTOs\bin\Debug\net9.0\AdminDyanamoEnterprises.DTOs.dll
+D:\My Project\Babu\Project\AdminDyanamoEnterprises\AdminDyanamoEnterprises.DTOs\bin\Debug\net9.0\AdminDyanamoEnterprises.DTOs.pdb
+D:\My Project\Babu\Project\AdminDyanamoEnterprises\AdminDyanamoEnterprises.DTOs\obj\Debug\net9.0\AdminDyanamoEnterprises.DTOs.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Project\Babu\Project\AdminDyanamoEnterprises\AdminDyanamoEnterprises.DTOs\obj\Debug\net9.0\AdminDyanamoEnterprises.DTOs.AssemblyInfoInputs.cache
+D:\My Project\Babu\Project\AdminDyanamoEnterprises\AdminDyanamoEnterprises.DTOs\obj\Debug\net9.0\AdminDyanamoEnterprises.DTOs.AssemblyInfo.cs
+D:\My Project\Babu\Project\AdminDyanamoEnterprises\AdminDyanamoEnterprises.DTOs\obj\Debug\net9.0\AdminDyanamoEnterprises.DTOs.csproj.CoreCompileInputs.cache
+D:\My Project\Babu\Project\AdminDyanamoEnterprises\AdminDyanamoEnterprises.DTOs\obj\Debug\net9.0\AdminDyanamoEnterprises.DTOs.dll
+D:\My Project\Babu\Project\AdminDyanamoEnterprises\AdminDyanamoEnterprises.DTOs\obj\Debug\net9.0\refint\AdminDyanamoEnterprises.DTOs.dll
+D:\My Project\Babu\Project\AdminDyanamoEnterprises\AdminDyanamoEnterprises.DTOs\obj\Debug\net9.0\AdminDyanamoEnterprises.DTOs.pdb
+D:\My Project\Babu\Project\AdminDyanamoEnterprises\AdminDyanamoEnterprises.DTOs\obj\Debug\net9.0\ref\AdminDyanamoEnterprises.DTOs.dll
+C:\Users\Admin\Downloads\AdminDyanamoEnterprises\AdminDyanamoEnterprises\AdminDyanamoEnterprises.DTOs\bin\Debug\net9.0\AdminDyanamoEnterprises.DTOs.deps.json
+C:\Users\Admin\Downloads\AdminDyanamoEnterprises\AdminDyanamoEnterprises\AdminDyanamoEnterprises.DTOs\bin\Debug\net9.0\AdminDyanamoEnterprises.DTOs.dll
+C:\Users\Admin\Downloads\AdminDyanamoEnterprises\AdminDyanamoEnterprises\AdminDyanamoEnterprises.DTOs\bin\Debug\net9.0\AdminDyanamoEnterprises.DTOs.pdb
+C:\Users\Admin\Downloads\AdminDyanamoEnterprises\AdminDyanamoEnterprises\AdminDyanamoEnterprises.DTOs\obj\Debug\net9.0\AdminDyanamoEnterprises.DTOs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\AdminDyanamoEnterprises\AdminDyanamoEnterprises\AdminDyanamoEnterprises.DTOs\obj\Debug\net9.0\AdminDyanamoEnterprises.DTOs.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\AdminDyanamoEnterprises\AdminDyanamoEnterprises\AdminDyanamoEnterprises.DTOs\obj\Debug\net9.0\AdminDyanamoEnterprises.DTOs.AssemblyInfo.cs
+C:\Users\Admin\Downloads\AdminDyanamoEnterprises\AdminDyanamoEnterprises\AdminDyanamoEnterprises.DTOs\obj\Debug\net9.0\AdminDyanamoEnterprises.DTOs.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\AdminDyanamoEnterprises\AdminDyanamoEnterprises\AdminDyanamoEnterprises.DTOs\obj\Debug\net9.0\AdminDyanamoEnterprises.DTOs.sourcelink.json
+C:\Users\Admin\Downloads\AdminDyanamoEnterprises\AdminDyanamoEnterprises\AdminDyanamoEnterprises.DTOs\obj\Debug\net9.0\AdminDyanamoEnterprises.DTOs.dll
+C:\Users\Admin\Downloads\AdminDyanamoEnterprises\AdminDyanamoEnterprises\AdminDyanamoEnterprises.DTOs\obj\Debug\net9.0\refint\AdminDyanamoEnterprises.DTOs.dll
+C:\Users\Admin\Downloads\AdminDyanamoEnterprises\AdminDyanamoEnterprises\AdminDyanamoEnterprises.DTOs\obj\Debug\net9.0\AdminDyanamoEnterprises.DTOs.pdb
+C:\Users\Admin\Downloads\AdminDyanamoEnterprises\AdminDyanamoEnterprises\AdminDyanamoEnterprises.DTOs\obj\Debug\net9.0\ref\AdminDyanamoEnterprises.DTOs.dll
